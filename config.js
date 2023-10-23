@@ -14,24 +14,24 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;U7wWHJZL#RA62-iFcTusaVKvcq0N6dOOEYIBXpZ3CBk_AJPNpYbM' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://rashu_user:NdIkjAF5MToLX6C2SzXiqsN5S04y5ApH@dpg-ckr71262eoec73dcpcmg-a.frankfurt-postgres.render.com/rashu'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94779122081'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Rashu_Modz'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,13 +41,13 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'ɴʀ ʀᴀꜱʜᴜ ᴍᴏᴅᴢ'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'ɴʀ ʀᴀꜱʜᴜ ᴍᴏᴅᴢ'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Rashu_Manika 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
