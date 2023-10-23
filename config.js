@@ -23,15 +23,15 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94779122081'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '𝚁𝚊𝚜𝚑𝚞_𝙼𝚘𝚍𝚣'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = 'true' // Inboc Block Message
 
-global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'true ' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,23 +41,23 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'NR RASHU MODZ'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'NR RASHU MODZ 2023'
 
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Rashu Manika 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://i.ibb.co/34jNGnj/e0c047d29408.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = 'true' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
